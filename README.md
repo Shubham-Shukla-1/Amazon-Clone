@@ -32,4 +32,4 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 ## Acknowledgements
 
 - This project was inspired by the design of the Amazon website.
-- Special thanks to [Name of any tutorials or resources you used].
+
